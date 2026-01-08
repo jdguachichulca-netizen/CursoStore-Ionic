@@ -1,0 +1,7 @@
+{
+  "name": "CursoStore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
